@@ -1,0 +1,10 @@
+
+/* Make the Bid Now buttons fully rounded and match text style with main site */
+
+.woocommerce ul.products li.product .button, .woocommerce-page ul.products li.product .button {
+	border-radius: 100px;
+  color: white;
+  text-transform: uppercase;
+	letter-spacing: 1.2px;
+	padding: 20px 30px;
+}
