@@ -8,3 +8,8 @@
 	letter-spacing: 1.2px;
 	padding: 20px 30px;
 }
+
+/*Makes the header text all uppercased to match the text style of the main site*/
+.header {
+	text-transform: uppercase;
+}
